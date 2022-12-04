@@ -23,7 +23,7 @@ deliverables: '1 HTML file, 1 JS file'
 
 Create the interaction shown in the linked video.
 
-- [**Watch this video to see how it interacts.**](https://youtu.be/XGYkTTIu5Lo)
+- [**Watch this video to see how it interacts.**](https://videos.learntheweb.courses/playlists/web-dev-js/phrasal-template-generator.mp4)
 
 ---
 
